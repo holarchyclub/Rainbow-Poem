@@ -8,3 +8,5 @@ blue
 cyan
 green
 yellow
+
+// this is not the formal rainbow description! can we add that?
