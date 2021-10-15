@@ -1,0 +1,10 @@
+purple
+pink
+yellow
+orange
+red
+puple
+blue
+cyan
+green
+yellow
